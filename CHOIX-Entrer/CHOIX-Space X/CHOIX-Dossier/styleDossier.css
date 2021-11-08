@@ -1,0 +1,14 @@
+img
+{
+    width: 140px;
+    height: 150px;
+}
+
+body
+{
+    text-align: center;
+    margin-top: 200px;
+    font-family: montserrat;
+    background-image: url(Images/fond.jpg);
+    background-size: cover;
+}

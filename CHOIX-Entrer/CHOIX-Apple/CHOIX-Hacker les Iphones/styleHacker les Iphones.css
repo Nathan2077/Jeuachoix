@@ -1,0 +1,46 @@
+body
+{
+    background-image: url(Images/Fond.jpg);
+    background-size: cover;
+    font-family: montserrat;
+}
+
+h1
+{
+    text-align: center;
+    margin-top: 230px;
+}
+
+img
+{
+    width: 40%;
+}
+
+#Iphones
+{
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text
+{
+    border: 3px solid;
+    border-radius: 20px;
+    padding: 4px;
+    box-shadow: 6px 6px 0px black;
+}
+
+p
+{
+    border: 3px solid white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#Retour
+{
+    text-align: center;
+    margin-top: 40px;
+}

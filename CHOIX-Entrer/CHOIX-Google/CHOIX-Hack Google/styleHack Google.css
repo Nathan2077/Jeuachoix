@@ -1,0 +1,12 @@
+body
+{
+    background-image: url(Images/Fond.jpg);
+    background-size: cover;
+    font-family: montserrat;
+}
+
+body
+{
+    text-align: center;
+    margin-top: 25%;
+}

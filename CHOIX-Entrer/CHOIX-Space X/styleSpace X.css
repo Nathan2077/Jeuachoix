@@ -1,0 +1,81 @@
+body
+{
+    background-image: url(Images/Fond.jpg);
+    background-size: cover;
+    font-family: montserrat;
+}
+
+#Elliot
+{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    border: 4px solid rgb(97, 68, 68);
+    border-radius: 4px;
+}
+
+#Mini-map
+{
+    margin-top: -300px;
+}
+
+#Retour
+{
+    margin-left: 385px;
+}
+
+#Mini-mapTexte
+{
+    flex-wrap: wrap;
+    margin-top: 350px;
+    text-align: center;
+    border: 3px solid rgb(97, 68, 68);
+    margin-right: 30px;
+    border-radius: 3px 3px 0px 0px;
+    border-bottom-style: dashed;
+}
+
+#Texte
+{
+    color: white;
+    width: 350px;
+    border: 3px solid whitesmoke;
+    text-align: center;
+    margin-left: 110px;
+    margin-top: 100px;
+    
+}
+
+#page 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#choix
+{
+    flex-wrap: wrap;
+    display: flex;
+    margin-left: 200px;
+    margin-right: 170px;
+    margin-top: 20px;
+    border: 3px solid rgb(97, 68, 68);
+    border-radius: 3px;
+}
+
+
+.réponse
+{
+    border: 3px solid rgb(97, 68, 68);
+    color: white;
+    text-align: center;
+}
+
+#Map
+{
+    margin-right: 30px;
+    border: 3px solid rgb(97, 68, 68);
+    border-radius: 0px 0px 3px 3px;
+    border-top-style: dashed;
+}

@@ -1,0 +1,43 @@
+body
+{
+    background: url("Images/glitch.gif");
+    background-size: cover;
+}
+
+@font-face {
+    font-family: DoctorGlitch;
+    src: url("Polices/Doctor Glitch.otf");
+}
+
+body
+{
+    margin-top: 200px;
+    font-family: DoctorGlitch;
+    justify-content: center;
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+    color: rgb(146, 131, 131);
+}
+
+.titre 
+{
+    margin: auto;
+}
+
+.btn
+{
+  padding-left: 30px;  
+  padding-right: 30px; 
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+button:hover
+{
+    background-color: rgb(148, 110, 110);
+}
+

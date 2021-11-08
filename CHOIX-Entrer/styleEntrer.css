@@ -1,0 +1,74 @@
+body
+{
+    background-image: url(Images/Fond.jpg);
+    background-size: cover;
+    font-family: montserrat;
+}
+
+#Elliot
+{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    border: 4px solid white;
+    border-radius: 4px;
+}
+
+#Mini-map
+{
+    margin-top: -300px;
+}
+
+#Mini-mapTexte
+{
+    flex-wrap: wrap;
+    margin-top: 350px;
+    text-align: center;
+    border: 3px solid white;
+    margin-right: 30px;
+    border-radius: 3px 3px 0px 0px;
+    border-bottom-style: dashed;
+}
+
+#Texte
+{
+    color: white;
+    width: 350px;
+    border: 3px solid white;
+    text-align: center;
+    margin-left: 110px;
+    margin-top: 190px;
+    
+}
+
+#page 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#choix
+{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 3px solid white;
+    border-radius: 3px;
+}
+
+.réponse
+{
+    border: 3px solid white;
+    color: white;
+    text-align: center;
+}
+
+#Map
+{
+    margin-right: 30px;
+    border: 3px solid white;
+    border-radius: 0px 0px 3px 3px;
+    border-top-style: dashed;
+}
+
