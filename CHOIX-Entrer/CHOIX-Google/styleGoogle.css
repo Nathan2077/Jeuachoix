@@ -79,3 +79,28 @@ body
     border-radius: 0px 0px 3px 3px;
     border-top-style: dashed;
 }
+
+@media only screen and (max-width: 1200px)
+{
+    #page
+    {
+        display: block;
+    }
+
+    #Mini-map
+    {
+        text-align:center;
+    }
+
+    #Texte
+    {
+        justify-content: center;
+        margin: auto;
+    }
+    
+    #Retour
+    {
+        margin-left: 300px;
+        margin-bottom: 10px;
+    }
+}

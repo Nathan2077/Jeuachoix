@@ -17,7 +17,7 @@ body
     text-align: center;
 }
 
-h1
+.title3
 {
     text-align: center;
     color: rgb(146, 131, 131);
@@ -39,5 +39,11 @@ h1
 button:hover
 {
     background-color: rgb(148, 110, 110);
+}
+
+span
+{
+    display: inline-block;
+    border: 1px solid;
 }
 
